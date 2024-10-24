@@ -1,0 +1,4 @@
+- pipeline: crlodjsxqy
+  refs:
+  - refs/heads/master
+  on: CLICK
